@@ -1,4 +1,4 @@
-# FM1
+# 常用数据类型扩展（NSArray、NSString、NSDictionary）
 
 [![CI Status](https://img.shields.io/travis/zgsddzwj@163.com/FM1.svg?style=flat)](https://travis-ci.org/zgsddzwj@163.com/FM1)
 [![Version](https://img.shields.io/cocoapods/v/FM1.svg?style=flat)](https://cocoapods.org/pods/FM1)
